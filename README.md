@@ -5,10 +5,14 @@ Contributors:
 
 
 Task repartition:
+- Inventor : Yann 
 - Coffee and printer : Paul
 - Manager : Romain
 - Lead Dev: Matthieu
 - Devs: Others
+
+TODO:
+FUMER DE LA GANJA, SE BRANLER ET FAIRE DE LA MONAYYYY$$$$
 
 Project's part:
 
